@@ -1,2 +1,1 @@
-# alx-backend-javascript
-Javascript ALX
+ES6 Basics
